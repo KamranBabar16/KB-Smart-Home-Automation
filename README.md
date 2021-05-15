@@ -40,7 +40,7 @@ A lot of commercial devices already exist in the market for such application but
 9.	IR Remote (Optional)
 
 
-## Support Me!
+## Support Me! :)
 
 
 
