@@ -52,14 +52,45 @@ A lot of commercial devices already exist in the market for such application but
 
 </a>Step 1: Add A New Device</h3>
 <p>From the Google Home app, click the Add button:</p>
-<img width="230" src="https://user-images.githubusercontent.com/23693439/118789007-c510d600-b8ad-11eb-9fce-ce0899bd2edd.png">
-<img width="230" src="https://user-images.githubusercontent.com/23693439/118789009-c5a96c80-b8ad-11eb-8f00-f4587d7f34cd.png">
-<img width="230" src="https://user-images.githubusercontent.com/23693439/118789000-c3dfa900-b8ad-11eb-8b13-ba787c9e2292.png">
+<table>
+
+ <tr>
+   <td style="text-align:center;">
+   <img width="230" src="https://user-images.githubusercontent.com/23693439/118789007-c510d600-b8ad-11eb-9fce-ce0899bd2edd.png">
+   </td>
+   
+   <td>
+   <img width="230" src="https://user-images.githubusercontent.com/23693439/118789009-c5a96c80-b8ad-11eb-8f00-f4587d7f34cd.png">
+   </td>
+   
+   <td>
+   <img width="230" src="https://user-images.githubusercontent.com/23693439/118789000-c3dfa900-b8ad-11eb-8b13-ba787c9e2292.png">
+   </td>
+  
+ </tr>
+</table>
+
 <h3>
   Step 2: Add The Homebridge Action</h3>
-<img width="230" src="https://user-images.githubusercontent.com/23693439/118789360-220c8c00-b8ae-11eb-8ab0-a1fe69c662be.png">
-<img width="230" src="https://user-images.githubusercontent.com/23693439/118789353-20db5f00-b8ae-11eb-85f8-60608d2573c5.png">
+
+  <table>
+  <tr>
+   <td style="text-align:center;">
+   <img width="230" src="https://user-images.githubusercontent.com/23693439/118789360-220c8c00-b8ae-11eb-8ab0-a1fe69c662be.png">
+   </td>
+   <td>
+   <img width="230" src="https://user-images.githubusercontent.com/23693439/118789353-20db5f00-b8ae-11eb-85f8-60608d2573c5.png">
+   </td>
+ </tr>
+</table>
+
 <br>
+
+
+
+
+
+
 
 
 _________________________________________
