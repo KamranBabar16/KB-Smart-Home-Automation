@@ -46,7 +46,7 @@ A lot of commercial devices already exist in the market for such application but
 **Installation**
 <img src="https://user-images.githubusercontent.com/23693439/118782890-fbe3ed80-b8a7-11eb-8187-d3ce7302f683.gif" />
 
-<h2>d Homebridge To Google Home App</h2>
+<h2> Homebridge To Google Home App</h2>
 <p><strong>You should only add the Homebridge Action once you have configured the homebridge-gsh plugin and restarted your instance.</strong></p>
 <h3>
 
