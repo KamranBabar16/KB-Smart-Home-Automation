@@ -1,5 +1,23 @@
-#include <IRrecv.h>
 #include <ESP8266WiFi.h>
+
+/**************************************************************
+ *
+ * In this IoT project, you control any electrical appliances 
+ * with the help of Google assistant & Amazon's Alexa.
+ *
+ *   Project:                    https://github.com/KamranBabar16/KB-Smart-Home-Automation-Using-NodeMCU/
+ *   My Website:                 https://bit.ly/3nNIqyj
+ *   Social networks:            https://twitter.com/KamranBabar16
+ *                               https://www.facebook.com/KamranBabarOfficial
+ *                               https://www.linkedin.com/in/kamranbabar16/
+ *
+ **************************************************************
+ *
+ * NOTE: Use this only for non-commercial projects!!!
+ *
+ **************************************************************/
+
+#include <IRrecv.h>
 #include <ESP8266WiFiMulti.h>
 #include <WebSocketsClient.h>
 #include <ArduinoJson.h>
