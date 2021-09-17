@@ -13,7 +13,7 @@ A lot of commercial devices already exist in the market for such application but
 - Control over Internet from anywhere in the world
 - Voice Control using Google Assistant & Alexa
 - Control from Blynk App
-- Control from any IR remote
+- Control from IR remote
 -	Control over Web Page
 -	Save the switch state even after micro controller restarts.
 
