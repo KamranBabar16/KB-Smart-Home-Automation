@@ -1,4 +1,4 @@
-# KB Smart Home Automation Using NodeMCU
+# KB Smart Home Automation
 
 In this IoT project, you control any electrical appliances with the help of Google assistant & Amazon's Alexa.
 I have written the code in a way so that if Internet/Wi-Fi gets disconnected or not available, and the relay control from Web Page, IR Remote will go on independent of Wi-Fi.
